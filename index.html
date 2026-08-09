@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Streamdex & Reseaux</title>
+    <style>
+        /* Centrage et mise en page du conteneur */
+        body {
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #0f172a;
+            font-family: system-ui, -apple-system, sans-serif;
+        }
+
+        /* Disposition verticale des boutons */
+        .button-container {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+            width: 100%;
+            max-width: 300px;
+            padding: 0 16px;
+        }
+
+        /* Style de base pour tous les boutons */
+        .btn {
+            display: block;
+            text-align: center;
+            text-decoration: none;
+            padding: 14px 24px;
+            font-size: 1rem;
+            font-weight: 600;
+            color: #ffffff;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: transform 0.2s, opacity 0.2s;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+            opacity: 0.9;
+        }
+
+        .btn:active {
+            transform: translateY(0);
+        }
+
+        /* Couleurs spécifiques à chaque bouton */
+        .btn-streamdex {
+            background-color: #6366f1; /* Violet / Indigo */
+        }
+
+        .btn-twitch {
+            background-color: #9146ff; /* Violet Twitch */
+        }
+
+        .btn-youtube {
+            background-color: #ff0000; /* Rouge YouTube */
+        }
+    </style>
+</head>
+<body>
+
+    <div class="button-container">
+        <!-- Bouton Streamdex (Lien relatif) -->
+        <a href="./main.html" class="btn btn-streamdex">Ouvrir le streamdex</a>
+
+        <!-- Bouton Twitch (Ouvre dans un nouvel onglet) -->
+        <a href="https://www.twitch.tv/shiny_empy" target="_blank" rel="noopener noreferrer" class="btn btn-twitch">Twitch</a>
+
+        <!-- Bouton YouTube (Ouvre dans un nouvel onglet) -->
+        <a href="https://www.youtube.com/@Empy-pkmn" target="_blank" rel="noopener noreferrer" class="btn btn-youtube">YouTube</a>
+    </div>
+
+</body>
+</html>
