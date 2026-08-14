@@ -1,0 +1,158 @@
+{
+  "bossName": "Brouhabam",
+  "bossSprite": "https://raw.githubusercontent.com/MythMega/PkServData/refs/heads/master/img/sprite/poke/vanilla/Exploud_normal.gif",
+  "bossSpriteShiny": "https://raw.githubusercontent.com/MythMega/PkServData/refs/heads/master/img/sprite/poke/vanilla/Exploud_shiny.gif",
+  "bossRarity": "COMMON",
+  "shiny": false,
+  "pvMax": 5000,
+  "date": "2026-08-13 09:45:16",
+  "durationSec": 94960,
+  "players": [
+    {
+      "platform": "twitch",
+      "pseudo": "MythMega",
+      "damage": 2500,
+      "countAtk": 2,
+      "baseDmg": 280,
+      "level": 1,
+      "raidCount": 0,
+      "luck": 4.464286
+    },
+    {
+      "platform": "twitch",
+      "pseudo": "SawanCyberpotes",
+      "damage": 2315,
+      "countAtk": 2,
+      "baseDmg": 213,
+      "level": 1,
+      "raidCount": 0,
+      "luck": 5.4342723
+    },
+    {
+      "platform": "twitch",
+      "pseudo": "Shiny_Empy",
+      "damage": 196,
+      "countAtk": 1,
+      "baseDmg": 196,
+      "level": 1,
+      "raidCount": 0,
+      "luck": 1
+    }
+  ],
+  "platformDmg": [
+    {
+      "platform": "twitch",
+      "damage": 5011
+    }
+  ],
+  "funFacts": [
+    {
+      "pseudo": "Shiny_Empy",
+      "platform": "twitch",
+      "healPeople": 0,
+      "healSelf": 0,
+      "poisonOther": 0,
+      "ko": 0,
+      "para": 0,
+      "frozen": 0,
+      "burnt": 0,
+      "confused": 0,
+      "backWind": 0,
+      "asleep": 0,
+      "healing": 0,
+      "poisoned": 0,
+      "roundsUnderFx": 0
+    },
+    {
+      "pseudo": "SawanCyberpotes",
+      "platform": "twitch",
+      "healPeople": 0,
+      "healSelf": 0,
+      "poisonOther": 0,
+      "ko": 0,
+      "para": 0,
+      "frozen": 0,
+      "burnt": 0,
+      "confused": 0,
+      "backWind": 0,
+      "asleep": 0,
+      "healing": 0,
+      "poisoned": 0,
+      "roundsUnderFx": 0
+    },
+    {
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "healPeople": 0,
+      "healSelf": 0,
+      "poisonOther": 0,
+      "ko": 0,
+      "para": 0,
+      "frozen": 0,
+      "burnt": 0,
+      "confused": 0,
+      "backWind": 0,
+      "asleep": 0,
+      "healing": 0,
+      "poisoned": 0,
+      "roundsUnderFx": 0
+    }
+  ],
+  "attackLog": [
+    {
+      "at": "2026-08-14 11:29:22",
+      "pseudo": "Shiny_Empy",
+      "platform": "twitch",
+      "damages": 196,
+      "pvAfter": 4804,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-14 11:52:54",
+      "pseudo": "SawanCyberpotes",
+      "platform": "twitch",
+      "damages": 1065,
+      "pvAfter": 3739,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-14 11:53:33",
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "damages": 1250,
+      "pvAfter": 2489,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-14 12:04:43",
+      "pseudo": "SawanCyberpotes",
+      "platform": "twitch",
+      "damages": 1250,
+      "pvAfter": 1239,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-14 12:07:57",
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "damages": 1250,
+      "pvAfter": 0,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    }
+  ]
+}
