@@ -1,0 +1,180 @@
+{
+  "bossName": "Machopeur",
+  "bossSprite": "https://raw.githubusercontent.com/MythMega/PkServData/refs/heads/master/img/sprite/poke/vanilla/Machoke_normal.gif",
+  "bossSpriteShiny": "https://raw.githubusercontent.com/MythMega/PkServData/refs/heads/master/img/sprite/poke/vanilla/Machoke_shiny.gif",
+  "bossRarity": "UNCOMMON",
+  "shiny": false,
+  "pvMax": 3700,
+  "date": "2026-08-18 11:33:51",
+  "durationSec": 3814,
+  "players": [
+    {
+      "platform": "twitch",
+      "pseudo": "MythMega",
+      "damage": 3473,
+      "countAtk": 5,
+      "baseDmg": 278,
+      "level": 2,
+      "raidCount": 0,
+      "luck": 2.4985611
+    },
+    {
+      "platform": "twitch",
+      "pseudo": "SawanCyberpotes",
+      "damage": 265,
+      "countAtk": 1,
+      "baseDmg": 265,
+      "level": 1,
+      "raidCount": 0,
+      "luck": 1
+    },
+    {
+      "platform": "twitch",
+      "pseudo": "jmdevfr",
+      "damage": 242,
+      "countAtk": 1,
+      "baseDmg": 242,
+      "level": 1,
+      "raidCount": 0,
+      "luck": 1
+    }
+  ],
+  "platformDmg": [
+    {
+      "platform": "twitch",
+      "damage": 3980
+    }
+  ],
+  "funFacts": [
+    {
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "healPeople": 0,
+      "healSelf": 0,
+      "poisonOther": 0,
+      "ko": 0,
+      "para": 0,
+      "frozen": 0,
+      "burnt": 0,
+      "confused": 0,
+      "backWind": 0,
+      "asleep": 0,
+      "healing": 0,
+      "poisoned": 0,
+      "roundsUnderFx": 0
+    },
+    {
+      "pseudo": "jmdevfr",
+      "platform": "twitch",
+      "healPeople": 0,
+      "healSelf": 0,
+      "poisonOther": 0,
+      "ko": 0,
+      "para": 0,
+      "frozen": 0,
+      "burnt": 0,
+      "confused": 0,
+      "backWind": 0,
+      "asleep": 0,
+      "healing": 0,
+      "poisoned": 0,
+      "roundsUnderFx": 0
+    },
+    {
+      "pseudo": "SawanCyberpotes",
+      "platform": "twitch",
+      "healPeople": 0,
+      "healSelf": 0,
+      "poisonOther": 0,
+      "ko": 0,
+      "para": 0,
+      "frozen": 0,
+      "burnt": 0,
+      "confused": 0,
+      "backWind": 0,
+      "asleep": 0,
+      "healing": 0,
+      "poisoned": 0,
+      "roundsUnderFx": 0
+    }
+  ],
+  "attackLog": [
+    {
+      "at": "2026-08-18 11:34:39",
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "damages": 278,
+      "pvAfter": 3422,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-18 11:54:05",
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "damages": 925,
+      "pvAfter": 2497,
+      "heal": false,
+      "critical": true,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-18 12:10:04",
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "damages": 758,
+      "pvAfter": 1739,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-18 12:30:38",
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "damages": 740,
+      "pvAfter": 999,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-18 12:30:51",
+      "pseudo": "jmdevfr",
+      "platform": "twitch",
+      "damages": 242,
+      "pvAfter": 757,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-18 12:31:00",
+      "pseudo": "SawanCyberpotes",
+      "platform": "twitch",
+      "damages": 265,
+      "pvAfter": 492,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-18 12:37:26",
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "damages": 772,
+      "pvAfter": 0,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    }
+  ]
+}
