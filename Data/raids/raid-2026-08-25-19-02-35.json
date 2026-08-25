@@ -1,0 +1,213 @@
+{
+  "bossName": "Abra",
+  "bossSprite": "https://raw.githubusercontent.com/MythMega/PkServData/refs/heads/master/img/sprite/poke/vanilla/Abra_normal.gif",
+  "bossSpriteShiny": "https://raw.githubusercontent.com/MythMega/PkServData/refs/heads/master/img/sprite/poke/vanilla/Abra_shiny.gif",
+  "bossRarity": "UNCOMMON",
+  "shiny": false,
+  "pvMax": 3700,
+  "date": "2026-08-25 19:02:35",
+  "durationSec": 1484,
+  "players": [
+    {
+      "platform": "twitch",
+      "pseudo": "Etokalii",
+      "damage": 2332,
+      "countAtk": 7,
+      "baseDmg": 243,
+      "level": 1,
+      "raidCount": 0,
+      "luck": 1.3709582
+    },
+    {
+      "platform": "twitch",
+      "pseudo": "SawanCyberpotes",
+      "damage": 1076,
+      "countAtk": 2,
+      "baseDmg": 308,
+      "level": 2,
+      "raidCount": 0,
+      "luck": 1.7467532
+    },
+    {
+      "platform": "twitch",
+      "pseudo": "MythMega",
+      "damage": 318,
+      "countAtk": 1,
+      "baseDmg": 318,
+      "level": 2,
+      "raidCount": 0,
+      "luck": 1
+    }
+  ],
+  "platformDmg": [
+    {
+      "platform": "twitch",
+      "damage": 3726
+    }
+  ],
+  "funFacts": [
+    {
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "healPeople": 0,
+      "healSelf": 0,
+      "poisonOther": 0,
+      "ko": 0,
+      "para": 0,
+      "frozen": 1,
+      "burnt": 0,
+      "confused": 1,
+      "backWind": 0,
+      "asleep": 0,
+      "healing": 0,
+      "poisoned": 0,
+      "roundsUnderFx": 4
+    },
+    {
+      "pseudo": "SawanCyberpotes",
+      "platform": "twitch",
+      "healPeople": 0,
+      "healSelf": 0,
+      "poisonOther": 0,
+      "ko": 0,
+      "para": 0,
+      "frozen": 0,
+      "burnt": 0,
+      "confused": 0,
+      "backWind": 0,
+      "asleep": 0,
+      "healing": 0,
+      "poisoned": 0,
+      "roundsUnderFx": 0
+    },
+    {
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "healPeople": 0,
+      "healSelf": 0,
+      "poisonOther": 0,
+      "ko": 0,
+      "para": 0,
+      "frozen": 0,
+      "burnt": 0,
+      "confused": 0,
+      "backWind": 0,
+      "asleep": 0,
+      "healing": 0,
+      "poisoned": 0,
+      "roundsUnderFx": 0
+    }
+  ],
+  "attackLog": [
+    {
+      "at": "2026-08-25 19:04:28",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 243,
+      "pvAfter": 3457,
+      "heal": false,
+      "critical": false,
+      "statut": "FROZEN",
+      "statusEffect": "Tu as \u00E9t\u00E9 gel\u00E9. Tes attaques ne feront plus de d\u00E9gat jusqu\u0027a ce que tu d\u00E9g\u00E8le (30% de chance \u00E0 chaque tour) !"
+    },
+    {
+      "at": "2026-08-25 19:10:02",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 0,
+      "pvAfter": 3457,
+      "heal": false,
+      "critical": false,
+      "statut": "FROZEN",
+      "statusEffect": "Toujours gel\u00E9."
+    },
+    {
+      "at": "2026-08-25 19:11:14",
+      "pseudo": "SawanCyberpotes",
+      "platform": "twitch",
+      "damages": 308,
+      "pvAfter": 3149,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-25 19:12:36",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 0,
+      "pvAfter": 3149,
+      "heal": false,
+      "critical": false,
+      "statut": "FROZEN",
+      "statusEffect": "Toujours gel\u00E9."
+    },
+    {
+      "at": "2026-08-25 19:15:58",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 359,
+      "pvAfter": 2790,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": "Tu n\u0027es plus gel\u00E9 !"
+    },
+    {
+      "at": "2026-08-25 19:16:58",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 336,
+      "pvAfter": 2454,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-25 19:20:14",
+      "pseudo": "SawanCyberpotes",
+      "platform": "twitch",
+      "damages": 768,
+      "pvAfter": 1686,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-25 19:21:34",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 469,
+      "pvAfter": 1217,
+      "heal": false,
+      "critical": false,
+      "statut": "CONFUSED",
+      "statusEffect": "Tu es confus. Ta prochaine attaque peut doubler ou soigner le boss !"
+    },
+    {
+      "at": "2026-08-25 19:24:40",
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "damages": 318,
+      "pvAfter": 899,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-25 19:27:19",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 925,
+      "pvAfter": 0,
+      "heal": false,
+      "critical": false,
+      "statut": "CONFUSED",
+      "statusEffect": "Confus, tu as super attaqu\u00E9 le boss."
+    }
+  ]
+}
