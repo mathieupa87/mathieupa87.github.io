@@ -1,0 +1,104 @@
+{
+  "bossName": "Kokiyas",
+  "bossSprite": "https://raw.githubusercontent.com/MythMega/PkServData/refs/heads/master/img/sprite/poke/vanilla/Shellder_normal.gif",
+  "bossSpriteShiny": "https://raw.githubusercontent.com/MythMega/PkServData/refs/heads/master/img/sprite/poke/vanilla/Shellder_shiny.gif",
+  "bossRarity": "COMMON",
+  "shiny": false,
+  "pvMax": 2200,
+  "date": "2026-08-25 20:36:35",
+  "durationSec": 50239,
+  "players": [
+    {
+      "platform": "twitch",
+      "pseudo": "Etokalii",
+      "damage": 2269,
+      "countAtk": 5,
+      "baseDmg": 275,
+      "level": 1,
+      "raidCount": 0,
+      "luck": 1.6501818
+    }
+  ],
+  "platformDmg": [
+    {
+      "platform": "twitch",
+      "damage": 2269
+    }
+  ],
+  "funFacts": [
+    {
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "healPeople": 0,
+      "healSelf": 0,
+      "poisonOther": 0,
+      "ko": 0,
+      "para": 0,
+      "frozen": 0,
+      "burnt": 0,
+      "confused": 0,
+      "backWind": 0,
+      "asleep": 0,
+      "healing": 0,
+      "poisoned": 0,
+      "roundsUnderFx": 0
+    }
+  ],
+  "attackLog": [
+    {
+      "at": "2026-08-26 10:06:02",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 275,
+      "pvAfter": 1925,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-26 10:22:07",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 550,
+      "pvAfter": 1375,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-26 10:27:01",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 482,
+      "pvAfter": 893,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-26 10:29:48",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 434,
+      "pvAfter": 459,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-26 10:33:54",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 528,
+      "pvAfter": 0,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    }
+  ]
+}
