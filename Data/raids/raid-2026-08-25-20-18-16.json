@@ -1,0 +1,175 @@
+{
+  "bossName": "Pomdepik",
+  "bossSprite": "https://raw.githubusercontent.com/MythMega/PkServData/refs/heads/master/img/sprite/poke/vanilla/Pineco_shiny.gif",
+  "bossSpriteShiny": "https://raw.githubusercontent.com/MythMega/PkServData/refs/heads/master/img/sprite/poke/vanilla/Pineco_shiny.gif",
+  "bossRarity": "COMMON",
+  "shiny": true,
+  "pvMax": 5600,
+  "date": "2026-08-25 20:18:16",
+  "durationSec": 890,
+  "players": [
+    {
+      "platform": "twitch",
+      "pseudo": "Etokalii",
+      "damage": 3277,
+      "countAtk": 6,
+      "baseDmg": 196,
+      "level": 1,
+      "raidCount": 0,
+      "luck": 2.7865648
+    },
+    {
+      "platform": "twitch",
+      "pseudo": "MythMega",
+      "damage": 3114,
+      "countAtk": 3,
+      "baseDmg": 314,
+      "level": 2,
+      "raidCount": 0,
+      "luck": 3.3057325
+    }
+  ],
+  "platformDmg": [
+    {
+      "platform": "twitch",
+      "damage": 6391
+    }
+  ],
+  "funFacts": [
+    {
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "healPeople": 0,
+      "healSelf": 0,
+      "poisonOther": 0,
+      "ko": 0,
+      "para": 0,
+      "frozen": 0,
+      "burnt": 0,
+      "confused": 0,
+      "backWind": 0,
+      "asleep": 0,
+      "healing": 0,
+      "poisoned": 0,
+      "roundsUnderFx": 0
+    },
+    {
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "healPeople": 0,
+      "healSelf": 0,
+      "poisonOther": 0,
+      "ko": 0,
+      "para": 0,
+      "frozen": 0,
+      "burnt": 0,
+      "confused": 0,
+      "backWind": 0,
+      "asleep": 0,
+      "healing": 0,
+      "poisoned": 0,
+      "roundsUnderFx": 0
+    }
+  ],
+  "attackLog": [
+    {
+      "at": "2026-08-25 20:18:32",
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "damages": 314,
+      "pvAfter": 5286,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-25 20:18:37",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 196,
+      "pvAfter": 5090,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-25 20:20:08",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 231,
+      "pvAfter": 4859,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-25 20:23:12",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 379,
+      "pvAfter": 4480,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-25 20:26:33",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 376,
+      "pvAfter": 4104,
+      "heal": false,
+      "critical": true,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-25 20:31:11",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 695,
+      "pvAfter": 3409,
+      "heal": false,
+      "critical": true,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-25 20:31:31",
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "damages": 1400,
+      "pvAfter": 2009,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-25 20:33:00",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 1400,
+      "pvAfter": 609,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-25 20:33:07",
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "damages": 1400,
+      "pvAfter": 0,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    }
+  ]
+}
