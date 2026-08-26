@@ -1,0 +1,175 @@
+{
+  "bossName": "Tentacruel",
+  "bossSprite": "https://raw.githubusercontent.com/MythMega/PkServData/refs/heads/master/img/sprite/poke/vanilla/Tentacruel_normal.gif",
+  "bossSpriteShiny": "https://raw.githubusercontent.com/MythMega/PkServData/refs/heads/master/img/sprite/poke/vanilla/Tentacruel_shiny.gif",
+  "bossRarity": "UNCOMMON",
+  "shiny": false,
+  "pvMax": 5100,
+  "date": "2026-08-26 11:25:07",
+  "durationSec": 7631,
+  "players": [
+    {
+      "platform": "twitch",
+      "pseudo": "MythMega",
+      "damage": 4522,
+      "countAtk": 7,
+      "baseDmg": 298,
+      "level": 2,
+      "raidCount": 0,
+      "luck": 2.1677852
+    },
+    {
+      "platform": "twitch",
+      "pseudo": "Etokalii",
+      "damage": 859,
+      "countAtk": 2,
+      "baseDmg": 277,
+      "level": 1,
+      "raidCount": 0,
+      "luck": 1.5505415
+    }
+  ],
+  "platformDmg": [
+    {
+      "platform": "twitch",
+      "damage": 5381
+    }
+  ],
+  "funFacts": [
+    {
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "healPeople": 0,
+      "healSelf": 0,
+      "poisonOther": 0,
+      "ko": 0,
+      "para": 0,
+      "frozen": 0,
+      "burnt": 0,
+      "confused": 0,
+      "backWind": 0,
+      "asleep": 0,
+      "healing": 1,
+      "poisoned": 0,
+      "roundsUnderFx": 5
+    },
+    {
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "healPeople": 0,
+      "healSelf": 0,
+      "poisonOther": 0,
+      "ko": 0,
+      "para": 0,
+      "frozen": 0,
+      "burnt": 0,
+      "confused": 0,
+      "backWind": 0,
+      "asleep": 0,
+      "healing": 0,
+      "poisoned": 0,
+      "roundsUnderFx": 0
+    }
+  ],
+  "attackLog": [
+    {
+      "at": "2026-08-26 11:26:42",
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "damages": 298,
+      "pvAfter": 4802,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-26 11:31:02",
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "damages": 596,
+      "pvAfter": 4206,
+      "heal": false,
+      "critical": false,
+      "statut": "HEALING",
+      "statusEffect": "Tu ne fais plus de d\u00E9gats pendant 3 tours, par contre tu heal un alli\u00E9 au hasard."
+    },
+    {
+      "at": "2026-08-26 11:44:03",
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "damages": 640,
+      "pvAfter": 3566,
+      "heal": false,
+      "critical": false,
+      "statut": "HEALING",
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-26 11:56:30",
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "damages": 598,
+      "pvAfter": 2968,
+      "heal": false,
+      "critical": false,
+      "statut": "HEALING",
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-26 12:03:51",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 277,
+      "pvAfter": 2691,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-26 12:27:33",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 582,
+      "pvAfter": 2109,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-26 12:41:09",
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "damages": 780,
+      "pvAfter": 1329,
+      "heal": false,
+      "critical": false,
+      "statut": "HEALING",
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-26 13:23:06",
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "damages": 770,
+      "pvAfter": 559,
+      "heal": false,
+      "critical": false,
+      "statut": "HEALING",
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-26 13:32:19",
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "damages": 840,
+      "pvAfter": 0,
+      "heal": false,
+      "critical": false,
+      "statut": "HEALING",
+      "statusEffect": null
+    }
+  ]
+}
