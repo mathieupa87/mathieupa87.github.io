@@ -1,0 +1,241 @@
+{
+  "bossName": "Osselait",
+  "bossSprite": "https://raw.githubusercontent.com/MythMega/PkServData/refs/heads/master/img/sprite/poke/vanilla/Cubone_normal.gif",
+  "bossSpriteShiny": "https://raw.githubusercontent.com/MythMega/PkServData/refs/heads/master/img/sprite/poke/vanilla/Cubone_shiny.gif",
+  "bossRarity": "UNCOMMON",
+  "shiny": false,
+  "pvMax": 4400,
+  "date": "2026-08-25 19:30:35",
+  "durationSec": 2756,
+  "players": [
+    {
+      "platform": "twitch",
+      "pseudo": "Etokalii",
+      "damage": 4426,
+      "countAtk": 14,
+      "baseDmg": 201,
+      "level": 1,
+      "raidCount": 0,
+      "luck": 1.57285
+    },
+    {
+      "platform": "twitch",
+      "pseudo": "SawanCyberpotes",
+      "damage": 323,
+      "countAtk": 1,
+      "baseDmg": 323,
+      "level": 2,
+      "raidCount": 0,
+      "luck": 1
+    }
+  ],
+  "platformDmg": [
+    {
+      "platform": "twitch",
+      "damage": 4749
+    }
+  ],
+  "funFacts": [
+    {
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "healPeople": 0,
+      "healSelf": 0,
+      "poisonOther": 0,
+      "ko": 1,
+      "para": 0,
+      "frozen": 0,
+      "burnt": 0,
+      "confused": 0,
+      "backWind": 0,
+      "asleep": 0,
+      "healing": 0,
+      "poisoned": 0,
+      "roundsUnderFx": 0
+    },
+    {
+      "pseudo": "SawanCyberpotes",
+      "platform": "twitch",
+      "healPeople": 0,
+      "healSelf": 0,
+      "poisonOther": 0,
+      "ko": 0,
+      "para": 0,
+      "frozen": 0,
+      "burnt": 0,
+      "confused": 0,
+      "backWind": 0,
+      "asleep": 0,
+      "healing": 0,
+      "poisoned": 0,
+      "roundsUnderFx": 0
+    }
+  ],
+  "attackLog": [
+    {
+      "at": "2026-08-25 19:33:45",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 201,
+      "pvAfter": 4199,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-25 19:36:29",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 316,
+      "pvAfter": 3883,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-25 19:39:35",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 270,
+      "pvAfter": 3613,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-25 19:43:51",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 320,
+      "pvAfter": 3293,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-25 19:48:02",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 292,
+      "pvAfter": 3001,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-25 19:52:00",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 447,
+      "pvAfter": 2554,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-25 19:55:47",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 370,
+      "pvAfter": 2184,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-25 19:57:02",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 237,
+      "pvAfter": 1947,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-25 19:59:02",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 294,
+      "pvAfter": 1653,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-25 20:01:08",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 334,
+      "pvAfter": 1319,
+      "heal": false,
+      "critical": true,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-25 20:05:15",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 357,
+      "pvAfter": 962,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-25 20:05:20",
+      "pseudo": "SawanCyberpotes",
+      "platform": "twitch",
+      "damages": 323,
+      "pvAfter": 639,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-25 20:08:33",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 264,
+      "pvAfter": 375,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-25 20:10:19",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 327,
+      "pvAfter": 48,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-25 20:16:31",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 397,
+      "pvAfter": 0,
+      "heal": false,
+      "critical": false,
+      "statut": "KO",
+      "statusEffect": "Tu as \u00E9t\u00E9 mis KO. Tes attaques ne feront plus de d\u00E9gats pendant 5 minutes !"
+    }
+  ]
+}
