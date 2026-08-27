@@ -1,0 +1,202 @@
+{
+  "bossName": "Kangourex",
+  "bossSprite": "https://raw.githubusercontent.com/MythMega/PkServData/refs/heads/master/img/sprite/poke/vanilla/Kangaskhan_normal.gif",
+  "bossSpriteShiny": "https://raw.githubusercontent.com/MythMega/PkServData/refs/heads/master/img/sprite/poke/vanilla/Kangaskhan_shiny.gif",
+  "bossRarity": "RARE",
+  "shiny": false,
+  "pvMax": 8000,
+  "date": "2026-08-27 12:32:27",
+  "durationSec": 762,
+  "players": [
+    {
+      "platform": "twitch",
+      "pseudo": "maxenceriot",
+      "damage": 4768,
+      "countAtk": 6,
+      "baseDmg": 196,
+      "level": 1,
+      "raidCount": 0,
+      "luck": 4.054422
+    },
+    {
+      "platform": "twitch",
+      "pseudo": "MythMega",
+      "damage": 2279,
+      "countAtk": 2,
+      "baseDmg": 279,
+      "level": 2,
+      "raidCount": 0,
+      "luck": 4.0842295
+    },
+    {
+      "platform": "twitch",
+      "pseudo": "SawanCyberpotes",
+      "damage": 981,
+      "countAtk": 1,
+      "baseDmg": 327,
+      "level": 2,
+      "raidCount": 0,
+      "luck": 3
+    }
+  ],
+  "platformDmg": [
+    {
+      "platform": "twitch",
+      "damage": 8028
+    }
+  ],
+  "funFacts": [
+    {
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "healPeople": 0,
+      "healSelf": 0,
+      "poisonOther": 0,
+      "ko": 0,
+      "para": 0,
+      "frozen": 0,
+      "burnt": 0,
+      "confused": 0,
+      "backWind": 0,
+      "asleep": 0,
+      "healing": 0,
+      "poisoned": 0,
+      "roundsUnderFx": 0
+    },
+    {
+      "pseudo": "maxenceriot",
+      "platform": "twitch",
+      "healPeople": 0,
+      "healSelf": 0,
+      "poisonOther": 0,
+      "ko": 0,
+      "para": 0,
+      "frozen": 0,
+      "burnt": 0,
+      "confused": 0,
+      "backWind": 0,
+      "asleep": 0,
+      "healing": 0,
+      "poisoned": 0,
+      "roundsUnderFx": 0
+    },
+    {
+      "pseudo": "SawanCyberpotes",
+      "platform": "twitch",
+      "healPeople": 0,
+      "healSelf": 0,
+      "poisonOther": 0,
+      "ko": 0,
+      "para": 0,
+      "frozen": 0,
+      "burnt": 0,
+      "confused": 0,
+      "backWind": 0,
+      "asleep": 0,
+      "healing": 0,
+      "poisoned": 0,
+      "roundsUnderFx": 0
+    }
+  ],
+  "attackLog": [
+    {
+      "at": "2026-08-27 12:32:38",
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "damages": 279,
+      "pvAfter": 7721,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-27 12:33:01",
+      "pseudo": "maxenceriot",
+      "platform": "twitch",
+      "damages": 196,
+      "pvAfter": 7525,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-27 12:34:38",
+      "pseudo": "maxenceriot",
+      "platform": "twitch",
+      "damages": 624,
+      "pvAfter": 6901,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-27 12:35:03",
+      "pseudo": "SawanCyberpotes",
+      "platform": "twitch",
+      "damages": 981,
+      "pvAfter": 5920,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-27 12:38:13",
+      "pseudo": "maxenceriot",
+      "platform": "twitch",
+      "damages": 1242,
+      "pvAfter": 4678,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-27 12:41:37",
+      "pseudo": "maxenceriot",
+      "platform": "twitch",
+      "damages": 891,
+      "pvAfter": 3787,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-27 12:43:23",
+      "pseudo": "maxenceriot",
+      "platform": "twitch",
+      "damages": 939,
+      "pvAfter": 2848,
+      "heal": false,
+      "critical": true,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-27 12:44:39",
+      "pseudo": "maxenceriot",
+      "platform": "twitch",
+      "damages": 876,
+      "pvAfter": 1972,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-27 12:45:10",
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "damages": 2000,
+      "pvAfter": 0,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    }
+  ]
+}
