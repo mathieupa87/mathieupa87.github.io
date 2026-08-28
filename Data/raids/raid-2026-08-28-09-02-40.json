@@ -1,0 +1,219 @@
+{
+  "bossName": "Jirachi",
+  "bossSprite": "https://raw.githubusercontent.com/MythMega/PkServData/refs/heads/master/img/sprite/poke/vanilla/Jirachi_normal.gif",
+  "bossSpriteShiny": "https://raw.githubusercontent.com/MythMega/PkServData/refs/heads/master/img/sprite/poke/vanilla/Jirachi_shiny.gif",
+  "bossRarity": "LEGENDARY",
+  "shiny": false,
+  "pvMax": 5000,
+  "date": "2026-08-28 09:02:40",
+  "durationSec": 14714,
+  "players": [
+    {
+      "platform": "twitch",
+      "pseudo": "Etokalii",
+      "damage": 2988,
+      "countAtk": 8,
+      "baseDmg": 250,
+      "level": 1,
+      "raidCount": 0,
+      "luck": 1.494
+    },
+    {
+      "platform": "twitch",
+      "pseudo": "MythMega",
+      "damage": 2318,
+      "countAtk": 4,
+      "baseDmg": 276,
+      "level": 2,
+      "raidCount": 0,
+      "luck": 2.0996377
+    }
+  ],
+  "platformDmg": [
+    {
+      "platform": "twitch",
+      "damage": 5306
+    }
+  ],
+  "funFacts": [
+    {
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "healPeople": 1,
+      "healSelf": 0,
+      "poisonOther": 0,
+      "ko": 0,
+      "para": 0,
+      "frozen": 0,
+      "burnt": 0,
+      "confused": 0,
+      "backWind": 0,
+      "asleep": 0,
+      "healing": 1,
+      "poisoned": 0,
+      "roundsUnderFx": 6
+    },
+    {
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "healPeople": 0,
+      "healSelf": 0,
+      "poisonOther": 0,
+      "ko": 0,
+      "para": 1,
+      "frozen": 0,
+      "burnt": 0,
+      "confused": 0,
+      "backWind": 0,
+      "asleep": 0,
+      "healing": 0,
+      "poisoned": 0,
+      "roundsUnderFx": 0
+    }
+  ],
+  "attackLog": [
+    {
+      "at": "2026-08-28 11:29:52",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 250,
+      "pvAfter": 4750,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-28 11:34:02",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 511,
+      "pvAfter": 4239,
+      "heal": false,
+      "critical": false,
+      "statut": "HEALING",
+      "statusEffect": "Tu ne fais plus de d\u00E9gats pendant 3 tours, par contre tu heal un alli\u00E9 au hasard."
+    },
+    {
+      "at": "2026-08-28 11:36:09",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 371,
+      "pvAfter": 3868,
+      "heal": false,
+      "critical": false,
+      "statut": "HEALING",
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-28 11:39:54",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 440,
+      "pvAfter": 3428,
+      "heal": false,
+      "critical": false,
+      "statut": "HEALING",
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-28 11:44:03",
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "damages": 276,
+      "pvAfter": 3152,
+      "heal": false,
+      "critical": false,
+      "statut": "PARALYZED",
+      "statusEffect": "Tu as \u00E9t\u00E9 paralys\u00E9. Tes attaques ne feront pas de d\u00E9gats pendant 3 tours !"
+    },
+    {
+      "at": "2026-08-28 11:44:17",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 0,
+      "pvAfter": 3152,
+      "heal": false,
+      "critical": true,
+      "statut": "HEALING",
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-28 11:50:37",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 513,
+      "pvAfter": 2639,
+      "heal": false,
+      "critical": false,
+      "statut": "HEALING",
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-28 11:53:17",
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "damages": 606,
+      "pvAfter": 2033,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-28 12:03:36",
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "damages": 708,
+      "pvAfter": 1325,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-28 12:05:16",
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "damages": 0,
+      "pvAfter": 1325,
+      "heal": true,
+      "critical": false,
+      "statut": "",
+      "statusEffect": "MythMega a tent\u00E9 de se soigner (mais n\u0027\u00E9tait pas infect\u00E9)"
+    },
+    {
+      "at": "2026-08-28 12:39:39",
+      "pseudo": "MythMega",
+      "platform": "twitch",
+      "damages": 728,
+      "pvAfter": 597,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-28 13:05:39",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 538,
+      "pvAfter": 59,
+      "heal": false,
+      "critical": false,
+      "statut": "HEALING",
+      "statusEffect": null
+    },
+    {
+      "at": "2026-08-28 13:07:54",
+      "pseudo": "Etokalii",
+      "platform": "twitch",
+      "damages": 365,
+      "pvAfter": 0,
+      "heal": false,
+      "critical": false,
+      "statut": "HEALING",
+      "statusEffect": null
+    }
+  ]
+}
