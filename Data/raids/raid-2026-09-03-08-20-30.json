@@ -1,0 +1,164 @@
+{
+  "bossName": "Krabboss",
+  "bossSprite": "https://raw.githubusercontent.com/MythMega/PkServData/refs/heads/master/img/sprite/poke/vanilla/Kingler_normal.gif",
+  "bossSpriteShiny": "https://raw.githubusercontent.com/MythMega/PkServData/refs/heads/master/img/sprite/poke/vanilla/Kingler_shiny.gif",
+  "bossRarity": "UNCOMMON",
+  "shiny": false,
+  "pvMax": 3000,
+  "date": "2026-09-03 08:20:30",
+  "durationSec": 21046,
+  "players": [
+    {
+      "platform": "twitch",
+      "pseudo": "sansanhijab",
+      "damage": 3313,
+      "countAtk": 7,
+      "baseDmg": 207,
+      "level": 1,
+      "raidCount": 0,
+      "luck": 2.2864044
+    },
+    {
+      "platform": "twitch",
+      "pseudo": "Shiny_Empy",
+      "damage": 258,
+      "countAtk": 1,
+      "baseDmg": 258,
+      "level": 1,
+      "raidCount": 0,
+      "luck": 1
+    }
+  ],
+  "platformDmg": [
+    {
+      "platform": "twitch",
+      "damage": 3571
+    }
+  ],
+  "funFacts": [
+    {
+      "pseudo": "Shiny_Empy",
+      "platform": "twitch",
+      "healPeople": 0,
+      "healSelf": 0,
+      "poisonOther": 0,
+      "ko": 0,
+      "para": 0,
+      "frozen": 0,
+      "burnt": 0,
+      "confused": 0,
+      "backWind": 0,
+      "asleep": 0,
+      "healing": 0,
+      "poisoned": 1,
+      "roundsUnderFx": 0
+    },
+    {
+      "pseudo": "sansanhijab",
+      "platform": "twitch",
+      "healPeople": 0,
+      "healSelf": 0,
+      "poisonOther": 0,
+      "ko": 0,
+      "para": 0,
+      "frozen": 1,
+      "burnt": 0,
+      "confused": 0,
+      "backWind": 0,
+      "asleep": 0,
+      "healing": 0,
+      "poisoned": 0,
+      "roundsUnderFx": 1
+    }
+  ],
+  "attackLog": [
+    {
+      "at": "2026-09-03 13:28:07",
+      "pseudo": "Shiny_Empy",
+      "platform": "twitch",
+      "damages": 258,
+      "pvAfter": 2742,
+      "heal": false,
+      "critical": false,
+      "statut": "POISONED",
+      "statusEffect": "Tu es empoisonn\u00E9 ! Tes attaques sont divis\u00E9es par 4 pendant 3 tours. 10% de chances de refiler le poison a quelqu\u0027un a chaque attaque."
+    },
+    {
+      "at": "2026-09-03 13:28:15",
+      "pseudo": "sansanhijab",
+      "platform": "twitch",
+      "damages": 207,
+      "pvAfter": 2535,
+      "heal": false,
+      "critical": false,
+      "statut": "FROZEN",
+      "statusEffect": "Tu as \u00E9t\u00E9 gel\u00E9. Tes attaques ne feront plus de d\u00E9gat jusqu\u0027a ce que tu d\u00E9g\u00E8le (30% de chance \u00E0 chaque tour) !"
+    },
+    {
+      "at": "2026-09-03 13:37:36",
+      "pseudo": "sansanhijab",
+      "platform": "twitch",
+      "damages": 490,
+      "pvAfter": 2045,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": "Tu n\u0027es plus gel\u00E9 !"
+    },
+    {
+      "at": "2026-09-03 13:42:33",
+      "pseudo": "sansanhijab",
+      "platform": "twitch",
+      "damages": 439,
+      "pvAfter": 1606,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-09-03 13:54:27",
+      "pseudo": "sansanhijab",
+      "platform": "twitch",
+      "damages": 474,
+      "pvAfter": 1132,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-09-03 13:57:41",
+      "pseudo": "sansanhijab",
+      "platform": "twitch",
+      "damages": 473,
+      "pvAfter": 659,
+      "heal": false,
+      "critical": true,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-09-03 14:03:36",
+      "pseudo": "sansanhijab",
+      "platform": "twitch",
+      "damages": 480,
+      "pvAfter": 179,
+      "heal": false,
+      "critical": false,
+      "statut": null,
+      "statusEffect": null
+    },
+    {
+      "at": "2026-09-03 14:11:17",
+      "pseudo": "sansanhijab",
+      "platform": "twitch",
+      "damages": 750,
+      "pvAfter": 0,
+      "heal": false,
+      "critical": true,
+      "statut": null,
+      "statusEffect": null
+    }
+  ]
+}
